@@ -47,12 +47,12 @@ resume_section_associations: true
 resume_social_links:
   resume_github_url: "https://github.com/TheDT01"
   resume_twitter_url: "https://twitter.com/rehanul92824"
-  resume_dribbble_url: "https://dribbble.com/jag"
+  resume_dribbble_url: "https://dribbble.com/rehan_dt"
   resume_facebook_url: "https://www.facebook.com/rehanul.dt"
   resume_linkedin_url: "https://www.linkedin.com/in/rehanul-islam-dt-146666300/"
   resume_instagram_url: "https://www.instagram.com/rehan_d.t/"
-  #resume_website_url:           "http://joelglovier.com"
-  #resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url: "http://dt-fortune.com"
+  resume_medium_url: "https://medium.com/@callmedt2005"
 resume_print_social_links: true
 
 # Design settings
