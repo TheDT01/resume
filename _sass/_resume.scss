@@ -110,7 +110,7 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: linear-gradient(45deg,#00237e,#3749bb,#0bc1e9,#3749bb,#00237e);;
   text-decoration: none;
   text-align: center;
   display: block;
