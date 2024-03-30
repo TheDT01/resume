@@ -3,9 +3,9 @@
   organization: Harvard University
   year: 2023 , 2024
   summary: Awarded the Outstanding Achievement award for completion Of CS50x, including ten problem sets, eight labs, and one final project.
-  image: ./image/CS50_cirtificate.jpg
+  certificate_link: "<a href='http://TheDT01.github.io/resume/images/CS50_cirtificate.jpg'>CS50 Certificate</a>"
 
 - award: Bscic C Programming
   organization: 10 Minute School
   year: 2023
-  image: ./image/10ms.png
+  image_link: "<a href='http://TheDT01.github.io/resume/images/10ms.png'> 10ms Certificate<img src='./image/10ms.png'></a>"
